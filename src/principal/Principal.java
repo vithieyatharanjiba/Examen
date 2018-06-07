@@ -19,5 +19,6 @@ public static void main(String[] args) {
 	recuperacion.insersionDatos();
 	
 	System.out.println("fin");	
+	
 	}
 }
